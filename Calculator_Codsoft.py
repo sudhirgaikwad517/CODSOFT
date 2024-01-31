@@ -1,6 +1,6 @@
 #Name Sudhir Gaikwad
 #CodSoft Internship 
-# Task 2
+# Task 1
 import tkinter as tk
 
 def calculate():
